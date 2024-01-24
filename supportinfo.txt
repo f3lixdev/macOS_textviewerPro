@@ -1,0 +1,3 @@
+Support Information:
+
+If you have any questions or require support with how to use the app, feel free to create an Issue here or send me an e-mail.
